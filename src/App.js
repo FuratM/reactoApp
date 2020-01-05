@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Component1 from './componentOne';
 
-// Furat React App is in progress
+// Netninja video 13: props
 
 class App extends Component {
   render(){
