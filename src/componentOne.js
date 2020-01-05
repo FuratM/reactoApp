@@ -13,3 +13,5 @@ class component1 extends Component{
         )
     }
 }
+
+export default component1
