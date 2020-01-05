@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
-//import logo from './logo.svg';
-//import './App.css';
+import component1 from './componentOne';
 
 // Furat React App is in progress
 
@@ -9,6 +8,7 @@ function App() {
     <div className="App">
       <h1>React JS APP</h1>
       <p>Welcome!</p>
+      <component1 />
     </div>
   );
 }
